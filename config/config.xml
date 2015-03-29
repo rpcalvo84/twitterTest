@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<APIKey>4VTnxLopFGpOPrUSMxdeUOrRS</APIKey>
+	<APISecret>m5RWDZIYU4ZYtXkZIqoRii45vXVgzMKhzEEsAHKzejN91ElzEK</APISecret>
+	<AccessToken>1603068110-urZywkbVlp09dBWMRldaihKU3geAwMR1QBlj2uV</AccessToken>
+	<AccessTokenSecret>VWnZAwTAzx8rcrG4BVTa2PtobqmUyc6rftWIC74de5kC4</AccessTokenSecret>
+	<UrlAPI>https://api.twitter.com/1.1/</UrlAPI>
+
+	<user>usuario</user>
+	<pass>usuario</pass>
+	<db>twitter</db>
+</config>
